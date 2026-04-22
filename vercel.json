@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://blogit-958k.onrender.com/",
+      "permanent": true
+    }
+  ]
+}
